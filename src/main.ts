@@ -1,5 +1,7 @@
 import { ViteSSG } from 'vite-ssg'
 import { setupLayouts } from 'virtual:generated-layouts'
+import ElementPlus from 'element-plus'
+import 'element-plus/dist/index.css'
 
 import { routes } from 'vue-router/auto-routes'
 import App from './App.vue'
@@ -9,7 +11,6 @@ import '@unocss/reset/tailwind.css'
 import './styles/main.css'
 import 'uno.css'
 
-// https://github.com/antfu/vite-ssg
 export const createApp = ViteSSG(
   App,
   {
@@ -17,9 +18,7 @@ export const createApp = ViteSSG(
     base: import.meta.env.BASE_URL,
   },
   (ctx) => {
-    // install all modules under `modules/`
-    Object.values(import.meta.glob<{ install: UserModule }>('./modules/*.ts', { eager: true }))
-      .forEach(i => i.install?.(ctx))
-    // ctx.app.use(Previewer)
+    Object.values(import.meta.glob<{ install: UserModule }>('./modules/*.ts', { eager: true })).forEach(i => i.install?.(ctx))
+    ctx.app.use(ElementPlus)
   },
 )
