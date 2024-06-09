@@ -1,7 +1,5 @@
 import { ViteSSG } from 'vite-ssg'
 import { setupLayouts } from 'virtual:generated-layouts'
-import ElementPlus from 'element-plus'
-import 'element-plus/dist/index.css'
 
 import { routes } from 'vue-router/auto-routes'
 import App from './App.vue'
@@ -19,6 +17,5 @@ export const createApp = ViteSSG(
   },
   (ctx) => {
     Object.values(import.meta.glob<{ install: UserModule }>('./modules/*.ts', { eager: true })).forEach(i => i.install?.(ctx))
-    ctx.app.use(ElementPlus)
   },
 )

@@ -4,7 +4,7 @@
   "packageManager": "pnpm@9.1.1",
   "scripts": {
     "build": "vite-ssg build",
-    "dev": "vite --port 3333 --open",
+    "dev": "vite --port 80 --host 0.0.0.0",
     "lint": "eslint .",
     "preview": "vite preview",
     "preview-https": "serve dist",
@@ -22,6 +22,7 @@
     "@vueuse/core": "^10.9.0",
     "@vueuse/head": "^2.0.0",
     "element-plus": "^2.7.5",
+    "localforage": "^1.10.0",
     "nprogress": "^0.2.0",
     "pinia": "^2.1.7",
     "vue": "^3.4.27",
