@@ -13,70 +13,70 @@
   "\u0000commonjs-dynamic-modules": [],
   "\u0000commonjsHelpers.js": [],
   "\u0000plugin-vue:export-helper": [
-    "/assets/_plugin-vue_export-helper-nm7n3z7o.js"
+    "./assets/_plugin-vue_export-helper-CX8Wm6Ty.js"
   ],
   "\u0000virtual:generated-layouts": [],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-p08CJeQX.js"
+    "./assets/virtual_pwa-register-L0tntsrU.js"
   ],
   "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
   "index.html": [],
   "locales/ar.yml": [
-    "/assets/ar-HvujSz0t.js"
+    "./assets/ar-HvujSz0t.js"
   ],
   "locales/de.yml": [
-    "/assets/de-tIfILiOM.js"
+    "./assets/de-tIfILiOM.js"
   ],
   "locales/en.yml": [
-    "/assets/en-uqoOIB2y.js"
+    "./assets/en-uqoOIB2y.js"
   ],
   "locales/es.yml": [
-    "/assets/es-DCBmW4A7.js"
+    "./assets/es-DCBmW4A7.js"
   ],
   "locales/fr.yml": [
-    "/assets/fr-C-cySWgT.js"
+    "./assets/fr-C-cySWgT.js"
   ],
   "locales/id.yml": [
-    "/assets/id-Cdl9masJ.js"
+    "./assets/id-Cdl9masJ.js"
   ],
   "locales/it.yml": [
-    "/assets/it-CZF_x55d.js"
+    "./assets/it-CZF_x55d.js"
   ],
   "locales/ja.yml": [
-    "/assets/ja-bk9vkbha.js"
+    "./assets/ja-bk9vkbha.js"
   ],
   "locales/ka.yml": [
-    "/assets/ka-DrXH8DM7.js"
+    "./assets/ka-DrXH8DM7.js"
   ],
   "locales/ko.yml": [
-    "/assets/ko-D1Wq3H7u.js"
+    "./assets/ko-D1Wq3H7u.js"
   ],
   "locales/pl.yml": [
-    "/assets/pl-x_vaV0QH.js"
+    "./assets/pl-x_vaV0QH.js"
   ],
   "locales/pt-BR.yml": [
-    "/assets/pt-BR-CJ3Aq30r.js"
+    "./assets/pt-BR-CJ3Aq30r.js"
   ],
   "locales/ru.yml": [
-    "/assets/ru-BQt2BLfU.js"
+    "./assets/ru-BQt2BLfU.js"
   ],
   "locales/tr.yml": [
-    "/assets/tr-CMH1HB1g.js"
+    "./assets/tr-CMH1HB1g.js"
   ],
   "locales/uk.yml": [
-    "/assets/uk-PdFIL57p.js"
+    "./assets/uk-PdFIL57p.js"
   ],
   "locales/uz.yml": [
-    "/assets/uz-D9sR80nb.js"
+    "./assets/uz-D9sR80nb.js"
   ],
   "locales/vi.yml": [
-    "/assets/vi-BsN4yQMQ.js"
+    "./assets/vi-BsN4yQMQ.js"
   ],
   "locales/zh-CN.yml": [
-    "/assets/zh-CN-CME5MBO5.js"
+    "./assets/zh-CN-CME5MBO5.js"
   ],
   "node_modules/.pnpm/@ctrl+tinycolor@3.6.1/node_modules/@ctrl/tinycolor/dist/module/conversion.js": [],
   "node_modules/.pnpm/@ctrl+tinycolor@3.6.1/node_modules/@ctrl/tinycolor/dist/module/css-color-names.js": [],
@@ -1004,24 +1004,24 @@
   "node_modules/.pnpm/vue-i18n@9.13.1_vue@3.4.27_typescript@5.4.5_/node_modules/vue-i18n/dist/vue-i18n.runtime.mjs": [],
   "node_modules/.pnpm/vue-router@4.3.2_vue@3.4.27_typescript@5.4.5_/node_modules/vue-router/dist/vue-router.mjs": [],
   "node_modules/.pnpm/workbox-window@7.0.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/workbox-window.prod.es5-B_6ZJHoI.js"
+    "./assets/workbox-window.prod.es5-B_6ZJHoI.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_plugin-vue_export-helper-nm7n3z7o.js"
+    "./assets/_plugin-vue_export-helper-CX8Wm6Ty.js"
   ],
   "src/composables/dark.ts": [],
   "src/layouts/404.vue": [
-    "/assets/404-DR9qV_DO.js"
+    "./assets/404-DslkejJN.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-DR9qV_DO.js"
+    "./assets/404-DslkejJN.js"
   ],
   "src/layouts/default.vue": [
-    "/assets/default-DiJgNX1R.js"
+    "./assets/default-BrLFidlc.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-CMIL2rSj.js"
+    "./assets/home-DSqGLLhr.js"
   ],
   "src/main.ts": [],
   "src/modules/element-plus.ts": [],
@@ -1031,14 +1031,14 @@
   "src/modules/pinia.ts": [],
   "src/modules/pwa.ts": [],
   "src/pages/index.vue": [
-    "/assets/index-DJ6l2FQ4.js"
+    "./assets/index-CuHvlG46.js"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-DJ6l2FQ4.js"
+    "./assets/index-CuHvlG46.js"
   ],
   "src/styles/main.css": [],
   "virtual:/vue-router/auto/route-block": [
-    "/assets/index-DJ6l2FQ4.js"
+    "./assets/index-CuHvlG46.js"
   ],
   "virtual:vue-router/auto-routes": []
 }
