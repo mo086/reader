@@ -2,13 +2,6 @@
 defineOptions({
   name: 'IndexPage',
 })
+const router = useRouter()
+router.push(window.innerHeight > window.innerWidth ? '/m' : '/w')
 </script>
-
-<template>
-  <div />
-</template>
-
-<route lang="yaml">
-meta:
-  layout: home
-</route>
