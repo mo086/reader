@@ -12,7 +12,7 @@ on:
       - dev
 
 jobs:
-  lint:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
