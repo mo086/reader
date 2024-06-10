@@ -1,0 +1,1 @@
+import{d as e,i as n,u as i}from"./app-BEsfPXC0.js";const s=e({name:"IndexPage",__name:"index",setup(t){return n&&i().push(window.innerHeight>window.innerWidth?"/m":"/w"),()=>{}}});export{s as default};
