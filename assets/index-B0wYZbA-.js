@@ -1,0 +1,1 @@
+import{d as n,i as t,u as i,r,o as s,g as a}from"./app-DQHTUfxa.js";import{c as e}from"./confg-BuW3WBb_.js";const f=n({__name:"index",setup(u){return t&&i().push(window.innerHeight>window.innerWidth?`/mobile/${e().getDefaultMenu.name}`:`/desktop/${e().getDefaultMenu.name}`),(c,m)=>{const o=r("RouterView");return s(),a(o)}}});export{f as default};

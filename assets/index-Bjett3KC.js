@@ -1,1 +1,0 @@
-import{_ as c,b as e}from"./_plugin-vue_export-helper-CazHzQYZ.js";import{o as n,c as t}from"./app-kRFPgfSx.js";const o={};function r(f,s){return n(),t("div",null,"书架")}typeof e=="function"&&e(o);const i=c(o,[["render",r]]);export{i as default};

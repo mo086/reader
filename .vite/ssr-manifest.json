@@ -19,7 +19,7 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "./assets/virtual_pwa-register-B-PfwP--.js"
+    "./assets/virtual_pwa-register-Ds9NjndX.js"
   ],
   "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
@@ -1269,22 +1269,22 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/composables/dark.ts": [],
   "src/layouts/404.vue": [
-    "./assets/404-DhVbAoss.js"
+    "./assets/404-DMLV-src.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/404-DhVbAoss.js"
+    "./assets/404-DMLV-src.js"
   ],
   "src/layouts/desktop.vue": [
-    "./assets/desktop-D4jN-_8M.js"
+    "./assets/desktop-XUQmaOaz.js"
   ],
   "src/layouts/desktop.vue?vue&type=script&setup=true&xmlns%3Av-for=http%3A%2F%2Fwww.w3.org%2F1999%2Fhtml&lang.ts": [
-    "./assets/desktop-D4jN-_8M.js"
+    "./assets/desktop-XUQmaOaz.js"
   ],
   "src/layouts/mobile.vue": [
-    "./assets/mobile-ClGuYmNJ.js"
+    "./assets/mobile-D2JCLzS1.js"
   ],
   "src/layouts/mobile.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/mobile-ClGuYmNJ.js"
+    "./assets/mobile-D2JCLzS1.js"
   ],
   "src/main.ts": [],
   "src/modules/element-plus.ts": [],
@@ -1295,31 +1295,31 @@
   "src/modules/pwa.ts": [],
   "src/modules/vant.ts": [],
   "src/pages/desktop/bookshelf/index.vue": [
-    "./assets/index-Bjett3KC.js"
+    "./assets/index-D07bKrWx.js"
   ],
   "src/pages/desktop/bookstore/index.vue": [
-    "./assets/index-KBgcvvTY.js"
+    "./assets/index-Dal3g6TA.js"
   ],
   "src/pages/desktop/setting/index.vue": [
-    "./assets/index-C0AQV8DS.js"
+    "./assets/index-OZuZjLjc.js"
   ],
   "src/pages/index.vue": [
-    "./assets/index-BbRecdFu.js"
+    "./assets/index-B0wYZbA-.js"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/index-BbRecdFu.js"
+    "./assets/index-B0wYZbA-.js"
   ],
   "src/pages/mobile/bookshelf/index.vue": [
-    "./assets/index-CtKgf2ck.js"
+    "./assets/index-D16gfEU-.js"
   ],
   "src/pages/mobile/bookstore/index.vue": [
-    "./assets/index-JTiYZE6c.js"
+    "./assets/index-DHm6_0b9.js"
   ],
   "src/pages/mobile/setting/index.vue": [
-    "./assets/index-43pxj3Yg.js"
+    "./assets/index-VxksfcL-.js"
   ],
   "src/stores/confg.ts": [
-    "./assets/confg-DYLs9tXD.js"
+    "./assets/confg-BuW3WBb_.js"
   ],
   "src/styles/main.css": [],
   "virtual:/vue-router/auto/route-block": [
