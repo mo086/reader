@@ -11,5 +11,5 @@
 
 <route lang="yaml">
 meta:
-layout: mobile
+  layout: mobile
 </route>
