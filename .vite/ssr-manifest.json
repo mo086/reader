@@ -13,13 +13,13 @@
   "\u0000commonjs-dynamic-modules": [],
   "\u0000commonjsHelpers.js": [],
   "\u0000plugin-vue:export-helper": [
-    "./assets/_plugin-vue_export-helper-DlAUqK2U.js"
+    "./assets/_plugin-vue_export-helper-CazHzQYZ.js"
   ],
   "\u0000virtual:generated-layouts": [],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "./assets/virtual_pwa-register-BZFOC94r.js"
+    "./assets/virtual_pwa-register-B-PfwP--.js"
   ],
   "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
@@ -1269,16 +1269,22 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/composables/dark.ts": [],
   "src/layouts/404.vue": [
-    "./assets/404-CGZp52s9.js"
+    "./assets/404-DhVbAoss.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/404-CGZp52s9.js"
+    "./assets/404-DhVbAoss.js"
   ],
-  "src/layouts/default.vue": [
-    "./assets/default-Cu2rJAb6.js"
+  "src/layouts/desktop.vue": [
+    "./assets/desktop-D4jN-_8M.js"
   ],
-  "src/layouts/home.vue": [
-    "./assets/home-Cu2rJAb6.js"
+  "src/layouts/desktop.vue?vue&type=script&setup=true&xmlns%3Av-for=http%3A%2F%2Fwww.w3.org%2F1999%2Fhtml&lang.ts": [
+    "./assets/desktop-D4jN-_8M.js"
+  ],
+  "src/layouts/mobile.vue": [
+    "./assets/mobile-ClGuYmNJ.js"
+  ],
+  "src/layouts/mobile.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/mobile-ClGuYmNJ.js"
   ],
   "src/main.ts": [],
   "src/modules/element-plus.ts": [],
@@ -1288,24 +1294,36 @@
   "src/modules/pinia.ts": [],
   "src/modules/pwa.ts": [],
   "src/modules/vant.ts": [],
+  "src/pages/desktop/bookshelf/index.vue": [
+    "./assets/index-Bjett3KC.js"
+  ],
+  "src/pages/desktop/bookstore/index.vue": [
+    "./assets/index-KBgcvvTY.js"
+  ],
+  "src/pages/desktop/setting/index.vue": [
+    "./assets/index-C0AQV8DS.js"
+  ],
   "src/pages/index.vue": [
-    "./assets/index-BVFYymUv.js"
+    "./assets/index-BbRecdFu.js"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/index-BVFYymUv.js"
+    "./assets/index-BbRecdFu.js"
   ],
-  "src/pages/m/index.vue": [
-    "./assets/index-_r_vsdJR.js"
+  "src/pages/mobile/bookshelf/index.vue": [
+    "./assets/index-CtKgf2ck.js"
   ],
-  "src/pages/m/index.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/index-_r_vsdJR.js"
+  "src/pages/mobile/bookstore/index.vue": [
+    "./assets/index-JTiYZE6c.js"
   ],
-  "src/pages/w/index.vue": [
-    "./assets/index-eoXvyOfg.js"
+  "src/pages/mobile/setting/index.vue": [
+    "./assets/index-43pxj3Yg.js"
   ],
-  "src/pages/w/index.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/index-eoXvyOfg.js"
+  "src/stores/confg.ts": [
+    "./assets/confg-DYLs9tXD.js"
   ],
   "src/styles/main.css": [],
+  "virtual:/vue-router/auto/route-block": [
+    "./assets/_plugin-vue_export-helper-CazHzQYZ.js"
+  ],
   "virtual:vue-router/auto-routes": []
 }
